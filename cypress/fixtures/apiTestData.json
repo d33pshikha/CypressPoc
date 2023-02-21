@@ -1,0 +1,39 @@
+{
+  "email": "gajabahian@gmail.com",
+  "password": "Start!@#123",
+  "wrongpassword": "Start!@#",
+  "wrongemail": "gaja@gmail.com",
+  "signup_url": "/auth/client/sign-up",
+  "login_url": "/auth/client/token",
+  "get_user": "/user/",
+  "get_update_profile": "/user/profile",
+  "get_update_proposal": "/user/proposals",
+  "credentials": {
+    "username": "test@example.com",
+    "password": "P@ssword123"
+  },
+  "existingUserDetails": {
+    "firstName": "Gabriel",
+    "lastName": "Ajabahian",
+    "countryOfResidence": "NL",
+    "investorSurvey": {
+      "investMinimumAmount": true,
+      "whenToStartInvestment": "ThisMonth",
+      "interestedInvestments": [
+        "Other"
+      ],
+      "investmentExperience": "OverTen",
+      "priorInvExperience": [],
+      "otherInterestedInvDetails": "other",
+      "otherPriorDetails": null
+    },
+    "nationality": "IN",
+    "region": "MH",
+    "phoneCountryCode": "+971",
+    "phoneNumber": "507368006",
+    "isTaxableInUS": true,
+    "isDefinedSophisticatedByCMA": null,
+    "isAccreditedByCBB": true,
+    "investmentExperience": "OverTen"
+  }
+}

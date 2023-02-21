@@ -1,0 +1,53 @@
+{
+    "data" : [{
+        "email": "test_random123mailinator.com",
+        "password": "P@ssword123",
+        "invalidField": "email"
+    }, 
+    {
+        "email": "test_random123@mailinatorcom",
+        "password": "P@ssword123",
+        "invalidField": "email"
+    }, 
+    {
+        "email": "test_random123@mailinator.",
+        "password": "P@ssword123",
+        "invalidField": "email"
+    }, 
+    {
+        "email": "@mailinator.com",
+        "password": "P@ssword123",
+        "invalidField": "email"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "Password",
+        "invalidField": "password"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "password",
+        "invalidField": "password"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "1assword",
+        "invalidField": "password"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "password12345",
+        "invalidField": "password"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "1@ssword",
+        "invalidField": "password"
+    }, 
+    {
+        "email": "test_random123@mailinator.com",
+        "password": "p@ssword!#$",
+        "invalidField": "password"
+    }
+]
+}

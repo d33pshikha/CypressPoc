@@ -1,0 +1,83 @@
+{
+    "emailAddress": "autoUser_",
+    "password": "P@ssword1X",
+    "nationality": "Saudi Arabia",
+    "region": "Riyadh",
+    "country": "India",
+    "mobile": "9999999999",
+    "otp": "111111",
+    "publicInboxURL": "https://www.mailinator.com",
+    "opportunitiesDetails": {
+        "selectInvestement": "Select All",
+        "investmentExperience": "2 - 5 years",
+        "investmentType": "Private Equity"
+    },
+    "investmentDetails": {
+        "beneficiary": "My immediate family",
+        "goals": "Select All",
+        "timeHorizon": "7 years",
+        "amount": "50000",
+        "generateIncome": "Yes",
+        "furtherPref": "None",
+        "esgCompliant": "No"
+    },
+    "editProposal": {
+        "timeHorizonAddYears": "5",
+        "timeHorizon": "12",
+        "increaseAnnualInvestment": "Yes",
+        "annualInvestment": "10000"
+    },
+    "messages": {
+        "signup": {
+            "welcome": "Welcome!",
+            "accountCreation": "Your account has been successfully created.",
+            "investmentHelp": [
+                "Yes, I need advice about the right investments for me.",
+                "No, I already know what investments are right for me."
+            ]
+        },
+        "opportunities": {
+            "longTermInvestment": "This is a long term investment and liquidity is limited"
+        },
+        "investmentGoals": {
+            "maxAmount": "As a retail client, you can only invest $50,000"
+        },
+        "dashboard": {
+            "generateProposal": "You are now ready to generate your proposal",
+            "viewProposal": "Your personalized proposal is ready"
+        },
+        "riskAssessment": {
+            "investmentStyle": "Your investment style is: Moderately Aggressive"
+        }
+    },
+    "pageHeadings": {
+        "profile": {
+            "secureAccount": "Secure your account",
+            "verifyPhone": "Phone number verification"
+        },
+        "opportunities": {
+            "completeProfile": "Complete your investor profile",
+            "buildPortfolio": "Build Your Portfolio"
+        },
+        "investmentGoals": {
+            "portfolioBeneficiary": "Who is this portfolio beneficiary?",
+            "investmentGoals": "What are your goals for this potential investment?",
+            "timeHorizon": "How long do you want to invest for?",
+            "initialAmount": "How much do you want to invest?",
+            "generateIncome": "Would you like this portfolio to generate income?",
+            "furtherPref": "Do you have further preferences?",
+            "esgCompliant": "Are you looking for Environmental, Social and Governance (ESG) compliant investments?"
+        },
+        "riskAssessment": {
+            "risks": "I tend to avoid investment risks",
+            "buySell": "I tend to buy and sell investments more often than I should",
+            "safeInvestment": "I prefer to invest safely than to take risk for the chance of higher returns",
+            "soldInvestment": "I have previously sold investments after sustained losses",
+            "riskPreparedness": "I am more prepared to take investment risks than others",
+            "highRiskInvestment": "I am willing to put a significant part of my wealth in high-risk investment",
+            "investmentReview": "I tend to review my investments frequently",
+            "riskLossPreparedness": "I am prepared to risk losing money if there is also a chance to gain",
+            "marketUncertainity": "Market uncertainty makes me uneasy"
+        }
+    }
+}

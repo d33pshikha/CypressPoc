@@ -1,0 +1,7 @@
+{
+    "signup": "/auth/client/sign-up",
+    "login": "/auth/client/token",
+    "getUser": "/user/",
+    "getUserProfile": "/user/profile",
+    "getUserProposals": "/user/proposals"
+}

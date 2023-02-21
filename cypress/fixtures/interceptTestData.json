@@ -1,0 +1,21 @@
+{
+    "method": {
+        "get": "GET",
+        "post": "POST"
+    },
+    "endpoint": {
+        "captcha": "/api/captcha/verify",
+        "sendOtp": "/api/auth/send-otp",
+        "otp": "/api/auth/verify-otp"
+    },
+    "json": {
+        "sendOtp": {
+            "message": "success",
+            "success": true
+        },
+        "captcha": {
+            "result": "success",
+            "token": "mockValue"
+        }
+    }
+}
